@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.env
+output/
+inference_results/
+log_output/
+*.jpg
+*.png
